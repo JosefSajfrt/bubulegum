@@ -1,23 +1,21 @@
-Welcome to Lumache's documentation!
+Capri Scan - kompletní dokumentace
 ===================================
-**Bublegume**
+**Úvod**
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+Obsahem této dokumentace je popis aplikace pro android skenery Capri Scan, která umožňuje skenování skladových dokladů zpracovávaných v systému CAPRI.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Aplikace je multiskenerová – na jednom dokladu může pracovat několik skenerů současně a umožňuje i skenování v off-line režimu.
+Při přihlášení, spouštění modulů, otevírání a uzavírání dokladů musí být skener v režimu on-line. Skenování položek dokladů a vyhledávání informací o produktech je možné i v off-line režimu.
 
 .. note::
 
-   This project is under active development.
+   Děkujeme, že čtete, zachráníte tak koťátko.
 
-Contents
+Obsah
 --------
 
 .. toctree::
 
+   start_app
    usage
    api
